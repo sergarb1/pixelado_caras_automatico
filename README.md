@@ -17,6 +17,12 @@ Herramienta de alta seguridad para la protección de datos que detecta y destruy
 - **Preservación de Audio:** Mantiene la pista de audio original mediante FFmpeg.
 - **Bilingüe:** Interfaz y registros en Castellano e Inglés.
 
+### 🚀 Uso en Windows (Interfaz Gráfica)
+Si prefieres no usar la consola, este proyecto incluye un **Lanzador Visual**:
+1. Haz doble clic en `Lanzar_Interfaz.bat`.
+2. Se abrirá un panel donde puedes ajustar la precisión de la IA, la intensidad del pixelado y la calidad del vídeo sin editar archivos de texto.
+3. Pulsa **"INICIAR PROCESAMIENTO"**.
+
 ### ⚙️ Configuración (config.ini)
 El archivo `config.ini` se crea automáticamente la primera vez que arrancas el programa.
 
