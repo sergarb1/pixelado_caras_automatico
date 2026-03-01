@@ -2,7 +2,7 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-🇺🇸 High-security tool for data protection that detects and destroys facial information in photos and videos in a **completely irreversible** way. Professional, fast, and easy to use.
+:us: High-security tool for data protection that detects and destroys facial information in photos and videos in a **completely irreversible** way. Professional, fast, and easy to use.
 
 🇪🇸 Herramienta de alta seguridad para la protección de datos que detecta y destruye la información facial en fotos y vídeos de forma **totalmente irreversible**. Profesional, rápida y fácil de usar.
 
